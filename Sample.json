@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The Mexican kidnapping saga explained in 80 seconds",
+            "description": "Two US citizens have been returned and the cartel handed over its own men. Here is what we know.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64753595",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6AF9/production/_128958372_p0f86k26.jpg",
+            "publishedAt": "2023-03-11T15:37:19.2895811Z",
+            "content": "The Mexican kidnapping saga explained in 80 seconds. Video, 00:01:20The Mexican kidnapping saga explained in 80 seconds"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Li Qiang: China elects Xi Jinping ally as premier",
+            "description": "Li Qiang received almost every vote from more than 2,900 delegates at the rubber-stamp parliament.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64924440",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E907/production/_128955695_mediaitem128955691.jpg",
+            "publishedAt": "2023-03-11T13:37:24.4627709Z",
+            "content": "The man nominated as China's next premier by President Xi Jinping has been formally elected by parliament. \r\nLi Qiang, the former Communist Party leader of the country's biggest city of Shanghai, wil… [+2011 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US fight over abortion pills waged state by state",
+            "description": "Tussles in California, Texas and elsewhere over the drug mifepristone could affect millions of US women.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64883398",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A90A/production/_128747234_gettyimages-1241524154.jpg",
+            "publishedAt": "2023-03-11T13:37:22.7901166Z",
+            "content": "Anti-abortion activists won a historic victory at the Supreme Court last year, but the debate over one of America's most divisive issues is far from over, with focus now shifting to over-the-counter … [+6392 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The Lineker tweet row - in 90 seconds",
+            "description": "The BBC says the presenter will step back from Match of the Day until an agreement on his social media use.",
+            "url": "http://www.bbc.co.uk/news/uk-64922834",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/255D/production/_128956590_microsoftteams-image-2.png",
+            "publishedAt": "2023-03-11T13:37:19.5554544Z",
+            "content": "Gary Lineker has been pulled from BBC football highlights show Match of the Day after his social media posts criticised the government's new asylum policy.\r\nHere's the whole row explained in under 90… [+107 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Gary Lineker: Several BBC sports shows dropped at last minute as impartiality row deepens",
+            "description": "Several TV and radio shows have been pulled off air at the last minute, as presenters show support for Gary Lineker.",
+            "url": "http://www.bbc.co.uk/news/live/entertainment-arts-64895316",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-03-11T12:37:22.5401624Z",
+            "content": "Fatboy Slim showed a giant photo of Gary Lineker in his show on Friday night in ManchesterImage caption: Fatboy Slim showed a giant photo of Gary Lineker in his show on Friday night in Manchester\r\nA … [+1195 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Florida's battle over how race is taught in schools",
+            "description": "As Republicans ban \"woke ideology\" in classrooms, some teachers warn of a chilling effect on debate.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64815035",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3838/production/_128929341_bracy_resized_cb.jpg",
+            "publishedAt": "2023-03-11T02:07:20.213661Z",
+            "content": "Florida is leading a national movement by Republicans to reshape how and what schoolchildren are taught about race. Governor Ron DeSantis is spearheading the crackdown on what he calls \"woke\" ideolog… [+9464 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Has Putin’s assault on Ukraine’s power grid failed?",
+            "description": "For 22 days Ukraine went without power cuts, and there are hopes Russia's strikes are losing momentum.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64899045",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/76ED/production/_128954403_359553f66fe55adea93a6a9dae288058bc5f82730_541_5026_28281000x563.jpg",
+            "publishedAt": "2023-03-11T00:07:17.7123882Z",
+            "content": "Ukrainians are enjoying the onset of spring. The nights are still cold, but they are emerging from a winter of Russian missile strikes that have cut their power, heating and their water too.\r\nThe win… [+7655 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mexico kidnapping: A twisted moral code explains cartel's apology",
+            "description": "Mexico's criminal gangs adopt a warped code of ethics - and the kidnap of Americans broke the rules.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-64921765",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8949/production/_128954153_1bcf83488d0b00bcc65f74f6c15917a2ef4201340_0_1600_9001000x563.jpg",
+            "publishedAt": "2023-03-10T22:22:19.4942967Z",
+            "content": "Four Americans were kidnapped by a drug cartel, and two of them were murdered, when they visited the town of Matamoros, Mexico. So why would the cartel apologise for the incident and hand over its ow… [+4592 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Silicon Valley Bank: Regulators shut firm behind market slump",
+            "description": "Silicon Valley Bank's scramble to raise money had sparked industry panic.",
+            "url": "http://www.bbc.co.uk/news/business-64915616",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58E2/production/_128945722_svb.png",
+            "publishedAt": "2023-03-10T17:22:17.3037163Z",
+            "content": "US regulators have shut down Silicon Valley Bank (SVB) and taken control of its customer deposits, after the firm revealed financial troubles that sparked panic about the state of the banking industr… [+1154 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Atmospheric river to bring more snow, rain and floods to California",
+            "description": "The National Weather Service said lives and property are in \"great danger\".",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64911139",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E6E1/production/_128950195_gettyimages-1247971121.jpg",
+            "publishedAt": "2023-03-10T15:07:24.0851482Z",
+            "content": "California is facing yet another dangerous winter storm, expected to bring heavy precipitation that could lead to flash flooding this weekend. \r\nThe extreme weather is the latest in a series of storm… [+2399 chars]"
+        }
+    ]
+}
